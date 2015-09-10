@@ -13,8 +13,8 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_centerHorizontal="true"
-        android:textSize="100dp"
-        android:text="0" />
+        android:textSize= "50sp"
+        android:text="RNG" />
 
     <Button
         android:layout_width="wrap_content"

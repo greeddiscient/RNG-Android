@@ -23,7 +23,7 @@ import java.util.Random;
                 TextView tv= (TextView)findViewById(R.id.textView1);
                 Random randomGenerator= new Random();
                 int randomint= randomGenerator.nextInt(100);
-                tv.setText(randomint);
+                tv.setText(String.valueOf(randomint));
             }
         });
     }
